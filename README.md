@@ -1,1 +1,1 @@
-# Competitive-Programming-Repository
+# Competitive Programming Notes
